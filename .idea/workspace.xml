@@ -180,12 +180,12 @@
       <workItem from="1542201990050" duration="10054000" />
       <workItem from="1542214820025" duration="9000" />
       <workItem from="1542215099119" duration="151000" />
-      <workItem from="1542465669347" duration="2202000" />
+      <workItem from="1542465669347" duration="2481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12416000" />
+    <option name="totallyTimeSpent" value="12695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="0" />
@@ -206,6 +206,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js" />
